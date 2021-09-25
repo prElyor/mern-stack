@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "elyor mern",
+    "mongoUri": "mongodb+srv://elyor:1234qwer@cluster0.4mat0.mongodb.net/mern-test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
